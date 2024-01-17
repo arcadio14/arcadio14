@@ -1,6 +1,7 @@
 ### Hi there 👋
 My Name is Arcadio Olvina! 😃 I am a senior in the Digital Game Development program at SWCTA. 📚
-
+🤔 I am interested in learning how to code, as well as expand my knowledge and skills in Unity. 💡
+📓 I hope to pursue college and graduate with a Computer Science degree. 🎓
 
 <!--
 **arcadio14/arcadio14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
