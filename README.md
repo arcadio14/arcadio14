@@ -1,5 +1,6 @@
 ### Hi there 👋
-My Name is Arcadio Olvina
+My Name is Arcadio Olvina! 😃 I am a senior in the Digital Game Development program at SWCTA. 📚
+
 
 <!--
 **arcadio14/arcadio14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
